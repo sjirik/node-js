@@ -56,22 +56,35 @@ inquirer
 .then((response) =>
   {let userPage = `
   Owner of Repo = 
-  ${response.username}
+
+        ${response.username}
+
   Repo Title =
-  ${response.projName} 
+
+        ${response.projName} 
+  
   License =
-  ${response.license}
+  
+        ${response.license}
+  
   Project Description =
 
         ${response.description}
 
 
   Table of Contents =
+  
   *Installation
+
   *Usage
+  
   *Contributing
+  
   *Tests
+  
   *Questions
+
+  =============================================
 
   *Installation:
   To install dependencies, run the command = 
