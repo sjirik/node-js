@@ -53,6 +53,54 @@ inquirer
   ])
 
 // TODO: Create a function to write README file
+.then((response) =>
+  {let userPage = `
+  Owner of Repo: ${response.username} 
+  Repo Title: ${response.projName} 
+  License: ${response.license}
+  Project Description:
+
+            ${response.description}
+
+
+  Table of Contents:
+  *Installation
+  *Usage
+  *Contributing
+  *Tests
+  *Questions
+
+  *Installation:
+  To install dependencies, run the command = 
+  
+            ${response.install}
+
+  *Usage:
+  Tips for usage = 
+            
+            ${response.use}
+  
+  *Contributing:
+  How to properly contribute to this repo =
+
+            ${response.contribute}
+
+  *Tests:
+  To run tests, run the command =
+
+            ${response.test}
+
+
+  *Questions:
+  Any questions can be directed to =
+            ${response.address}
+
+  
+   `;
+    fs.appendFile('README.md', userPage, (err) =>
+    err ? console.error(err) : console.log('Commit logged!')
+  )}
+  )
 
 // TODO: Create a function to initialize app
 
