@@ -55,23 +55,23 @@ inquirer
 // TODO: Create a function to write README file
 .then((response) =>
   {let userPage = `
-  <h1>Owner of Repo:<h1> 
+  Owner of Repo = 
   ${response.username}
-  <h1>Repo Title:<h1>
+  Repo Title =
   ${response.projName} 
-  <h2>License:<h2>
+  License =
   ${response.license}
-  <h2>Project Description:<h2>
+  Project Description =
 
         ${response.description}
 
 
-  <h2>Table of Contents:<h2>
-  <ul>*Installation
+  Table of Contents =
+  *Installation
   *Usage
   *Contributing
   *Tests
-  *Questions<ul>
+  *Questions
 
   *Installation:
   To install dependencies, run the command = 

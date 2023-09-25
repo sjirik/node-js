@@ -1,24 +1,22 @@
 # node-js
-
-
-  
-  <h1>Owner of Repo:<h1> 
-  sjirk
-  <h1>Repo Title:<h1>
-  node 
-  <h2>License:<h2>
+   
+  Owner of Repo = 
+  sjirik
+  Repo Title =
+  node-js 
+  License =
   MIT
-  <h2>Project Description:<h2>
+  Project Description =
 
-        it does stuff
+        It creates a readme
 
 
-  <h2>Table of Contents:<h2>
-  <ul>*Installation
+  Table of Contents =
+  *Installation
   *Usage
   *Contributing
   *Tests
-  *Questions<ul>
+  *Questions
 
   *Installation:
   To install dependencies, run the command = 
@@ -28,12 +26,12 @@
   *Usage:
   Tips for usage = 
             
-            nothin
+            nothing
   
   *Contributing:
   How to properly contribute to this repo =
 
-            nothin
+             nothing
 
   *Tests:
   To run tests, run the command =
@@ -43,7 +41,7 @@
 
   *Questions:
   Any questions can be directed to =
-            jirik@gmail
+            jirikscotty@gmail.com
 
   
    
