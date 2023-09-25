@@ -1,6 +1,6 @@
 # node-js
    
-  
+ 
   Owner of Repo = 
 
         sjirik
@@ -15,47 +15,47 @@
   
   Project Description =
 
-        it does node stuff
+        It does node stuff
 
 
   Table of Contents =
   
-  *Installation
+  *[Installation](#installation)
 
-  *Usage
+  *[Usage](#usage)
   
-  *Contributing
+  *[Contributing](#contributing)
   
-  *Tests
+  *[Tests](#tests)
   
-  *Questions
-
+  *[Questions](#questions)
+ 
   =============================================
 
-  *Installation:
+  ## Installation:
   To install dependencies, run the command = 
   
             npm i
 
-  *Usage:
+  ## Usage:
   Tips for usage = 
             
-            nothing
+            nothing 
   
-  *Contributing:
+  ## Contributing:
   How to properly contribute to this repo =
 
-            nothin
+            everythin
 
-  *Tests:
+  ## Tests:
   To run tests, run the command =
 
             npm test
 
 
-  *Questions:
+  ## Questions:
   Any questions can be directed to =
-            jirik@gmail
+            jirikscotty@gmail.com
 
   
    

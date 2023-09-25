@@ -74,40 +74,40 @@ inquirer
 
   Table of Contents =
   
-  *Installation
+  *[Installation](#installation)
 
-  *Usage
+  *[Usage](#usage)
   
-  *Contributing
+  *[Contributing](#contributing)
   
-  *Tests
+  *[Tests](#tests)
   
-  *Questions
-
+  *[Questions](#questions)
+ 
   =============================================
 
-  *Installation:
+  ## Installation:
   To install dependencies, run the command = 
   
             ${response.install}
 
-  *Usage:
+  ## Usage:
   Tips for usage = 
             
             ${response.use}
   
-  *Contributing:
+  ## Contributing:
   How to properly contribute to this repo =
 
             ${response.contribute}
 
-  *Tests:
+  ## Tests:
   To run tests, run the command =
 
             ${response.test}
 
 
-  *Questions:
+  ## Questions:
   Any questions can be directed to =
             ${response.address}
 
