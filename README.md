@@ -1,20 +1,24 @@
 # node-js
 
 
-  <h1>Owner of Repo: sjirik<h1> 
-  <h1>Repo Title: node-js <h1>
-  <h2>License: MIT<h2>
+  
+  <h1>Owner of Repo:<h1> 
+  sjirk
+  <h1>Repo Title:<h1>
+  node 
+  <h2>License:<h2>
+  MIT
   <h2>Project Description:<h2>
 
-            <p>It shows the use of npm packages<p>
+        it does stuff
 
 
-  Table of Contents:
-  *Installation
+  <h2>Table of Contents:<h2>
+  <ul>*Installation
   *Usage
   *Contributing
   *Tests
-  *Questions
+  *Questions<ul>
 
   *Installation:
   To install dependencies, run the command = 
@@ -24,7 +28,7 @@
   *Usage:
   Tips for usage = 
             
-            nothin 
+            nothin
   
   *Contributing:
   How to properly contribute to this repo =
@@ -39,7 +43,7 @@
 
   *Questions:
   Any questions can be directed to =
-            jiriksc@gmail.com
+            jirik@gmail
 
   
    
