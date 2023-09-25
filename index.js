@@ -1,8 +1,8 @@
-// TODO: Include packages needed for this application
+
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-// TODO: Create an array of questions for user input
+
 inquirer
   .prompt([
     {
@@ -52,7 +52,7 @@ inquirer
       }, 
   ])
 
-// TODO: Create a function to write README file
+
 .then((response) =>
   {let userPage = `
   Owner of Repo = 
@@ -83,8 +83,6 @@ inquirer
   *[Tests](#tests)
   
   *[Questions](#questions)
- 
-  =============================================
 
   ## Installation:
   To install dependencies, run the command = 
@@ -117,9 +115,4 @@ inquirer
     err ? console.error(err) : console.log('Commit logged!')
   )}
   )
-
-// TODO: Create a function to initialize app
-
-
-// Function call to initialize app
 

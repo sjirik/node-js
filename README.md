@@ -30,7 +30,6 @@
   
   *[Questions](#questions)
  
-  =============================================
 
   ## Installation:
   To install dependencies, run the command = 
