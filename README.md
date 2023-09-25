@@ -1,11 +1,12 @@
 # node-js
 
-  Owner of Repo: sjirik 
-  Repo Title: node-js 
-  License: MIT
-  Project Description:
 
-            This project demonstrates npm
+  <h1>Owner of Repo: sjirik<h1> 
+  <h1>Repo Title: node-js <h1>
+  <h2>License: MIT<h2>
+  <h2>Project Description:<h2>
+
+            <p>It shows the use of npm packages<p>
 
 
   Table of Contents:
@@ -23,12 +24,12 @@
   *Usage:
   Tips for usage = 
             
-            nothing
+            nothin 
   
   *Contributing:
   How to properly contribute to this repo =
 
-            Everything
+            nothin
 
   *Tests:
   To run tests, run the command =
@@ -38,7 +39,7 @@
 
   *Questions:
   Any questions can be directed to =
-            jirikscotty@gmail.com
+            jiriksc@gmail.com
 
   
    
