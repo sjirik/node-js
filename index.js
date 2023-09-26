@@ -107,11 +107,12 @@ inquirer
 
   ## Questions:
   Any questions can be directed to =
-            ${response.address}
+
+          Owner:${response.username} (${response.address})
 
   
    `;
-    fs.appendFile('README.md', userPage, (err) =>
+    fs.writeFile('README.md', userPage, (err) =>
     err ? console.error(err) : console.log('Commit logged!')
   )}
   )

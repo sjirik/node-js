@@ -1,21 +1,19 @@
-# node-js
-   
- 
+
   Owner of Repo = 
 
-        sjirik
+        s
 
   Repo Title =
 
-        node-js 
+        f 
   
   License =
   
-        MIT
+        d
   
   Project Description =
 
-        It does node stuff
+        a
 
 
   Table of Contents =
@@ -29,32 +27,32 @@
   *[Tests](#tests)
   
   *[Questions](#questions)
- 
 
   ## Installation:
   To install dependencies, run the command = 
   
-            npm i
+            a
 
   ## Usage:
   Tips for usage = 
             
-            nothing 
+            a
   
   ## Contributing:
   How to properly contribute to this repo =
 
-            everythin
+            a
 
   ## Tests:
   To run tests, run the command =
 
-            npm test
+            a
 
 
   ## Questions:
   Any questions can be directed to =
-            jirikscotty@gmail.com
+
+          Owner:s (d)
 
   
    
