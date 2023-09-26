@@ -1,19 +1,19 @@
 
   Owner of Repo = 
 
-        s
+        sjirik
 
   Repo Title =
 
-        f 
+        node-js 
   
   License =
   
-        d
+        MIT
   
   Project Description =
 
-        a
+        This demonstrates different functionalities of node/npm packages
 
 
   Table of Contents =
@@ -31,28 +31,28 @@
   ## Installation:
   To install dependencies, run the command = 
   
-            a
+            npm i
 
   ## Usage:
   Tips for usage = 
             
-            a
+            Nothing
   
   ## Contributing:
   How to properly contribute to this repo =
 
-            a
+            Nothing
 
   ## Tests:
   To run tests, run the command =
 
-            a
+            npm test
 
 
   ## Questions:
   Any questions can be directed to =
 
-          Owner:s (d)
+          Owner:sjirik (jirikscotty@gmail.com)
 
   
    
